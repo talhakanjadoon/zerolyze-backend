@@ -1,0 +1,5 @@
+{
+  "name": "zerolyze-backend",
+  "version": "1.0.0",
+  "description": "Zerolyze security scanner backend — Vercel serverless"
+}
